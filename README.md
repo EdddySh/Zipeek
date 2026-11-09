@@ -13,7 +13,7 @@ Inspect any link instantly in an interactive, highly customizable floating windo
     <td align="center" width="220">
       <a href="https://addons.mozilla.org/firefox/addon/glancefox/">
         <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_48x48.png" width="48" height="48" alt="Firefox Add-ons" /><br>
-        <b>Firefox Add-ons</b>
+        <b>Glancefox - Firefox Add-ons</b>
       </a>
       <br>
       <sub>✅ Available</sub>
@@ -21,7 +21,7 @@ Inspect any link instantly in an interactive, highly customizable floating windo
     <td align="center" width="220">
       <a href="#">
         <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png" width="48" height="48" alt="Chrome Web Store" /><br>
-        <b>Chrome Web Store</b>
+        <b>Zipeek - Chrome Web Store</b>
       </a>
       <br>
       <sub>⏳ Coming soon (In review)</sub>
@@ -49,7 +49,7 @@ If you want to try the latest changes early or run it on Chromium while the stor
 
 1. Download and extract the `.zip` archive from [Releases](https://github.com/EdddySh/Zipeek/releases).
 2. **On Chrome / Brave / Edge:** Go to `chrome://extensions/`, enable **Developer mode** in the top right, and click **Load unpacked**.
-3. **On Firefox / Waterfox / Zen:** Open `about:debugging#/runtime/this-firefox`, click **Load Temporary Add-on...**, and select the `manifest.json` file.
+
 
 ---
 
